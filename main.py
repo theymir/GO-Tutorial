@@ -5,3 +5,6 @@ name = Vname + Nname
 
 def pHello():
     print("Hello " + name + " !")
+
+
+pHello()
